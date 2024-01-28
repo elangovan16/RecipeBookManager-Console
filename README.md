@@ -19,11 +19,11 @@
 10. Preview
 
 ### About
- The RecipeBook Manager is a console-based application developed in Java that serves as a recipe management system. It allows users to add, remove, and view recipes, along with their ingredients and instructions.
+* The RecipeBook Manager is a console-based application developed in Java that serves as a recipe management system. It allows users to add, remove, and view recipes, along with their ingredients and instructions.
 
 ### Overview
 
- The RecipeBook Manager simplifies the process of managing recipes, providing functionalities for adding new recipes, removing existing ones, and viewing recipe details. It's designed to handle various ingredients, quantities, and instructions associated with each recipe.
+* The RecipeBook Manager simplifies the process of managing recipes, providing functionalities for adding new recipes, removing existing ones, and viewing recipe details. It's designed to handle various ingredients, quantities, and instructions associated with each recipe.
 
 ### Features
 
@@ -49,7 +49,7 @@
 * Unit
 
 ## Implementation Details
- The application is Java-based, following the __MVVM pattern__, and integrates with a MySQL database for persistent data storage.
+* The application is Java-based, following the __MVVM pattern__, and integrates with a MySQL database for persistent data storage.
 
 
 ### Class Diagram :
